@@ -1,0 +1,34 @@
+{
+    "items": [
+      {
+        "id": 1,
+        "item": "Bread"
+      },
+      {
+        "id": 2,
+        "item": "Tomato"
+      },
+      {
+        "id": 3,
+        "item": "CocaCola"
+      },
+      {
+        "id": 4,
+        "item": "Chips"
+      },
+      {
+        "id": 5,
+        "item": "Carrots"
+      },
+      {
+        "id": 6,
+        "item": "Onion"
+      },
+      {
+        "id": 7,
+        "item": "Shampoo"
+      }
+    ]
+  }
+
+  
